@@ -47,7 +47,7 @@ Trello:
 https://trello.com/b/8fiwXjdl/blood-donation-app
 
 ### Wireframe
-![Alt-text](/imgs/iPad - 1.png?raw=true)
+![Alt-text](https://github.com/silveredbullet/blood-donation-app/imgs/iPad - 1.png?raw=true)
 
 ### ERD
 
