@@ -31,11 +31,11 @@ The app aims to help make it easier to find voluteers to donate blood to strange
 
  - Problem
 
-Infographics
+##Infographics
 ![Alt-text](https://i.pinimg.com/564x/a0/99/f8/a099f8f5bd13562bf4be5885f0cb2ee6.jpg)
 ![Alt-text](http://3.bp.blogspot.com/-v_HrYLW8l0I/TaOL4fDI2PI/AAAAAAAABU0/Taj4fR3uwJ4/s1600/how_much_blood.jpg)
 
-Know More:
+##Know More:
 
 ![Alt-text](https://i.pinimg.com/564x/48/d5/9d/48d59dc478fad4c24dabcf5cb8a9cd59.jpg)
 ![Alt-text](https://i.pinimg.com/564x/ff/2f/f6/ff2ff6591d6197eafd0ab8cc8e313d78.jpg)
@@ -43,8 +43,11 @@ Know More:
  - Solution
 
 ### User Stories
+Trello:
+https://trello.com/b/8fiwXjdl/blood-donation-app
 
 ### Wireframe
+![Alt-text](imgs/iPad - 1.png)
 
 ### ERD
 
