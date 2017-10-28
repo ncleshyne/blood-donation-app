@@ -1,58 +1,101 @@
+
 # Blood Donation App
 
-This app allows users to help meet the constant need for blood.
+This app allows users to help meet the constant need for blood. 
 
 ## Table of Contents
 
-- [Team](#la-luna-sangre)
-- [Plan](#plan)
+- [Team](#team)
+- [Purpose](#purpose)
+- [Problem](#problem)
 - [User Stories](#user-stories)
 - [Wireframe](#wireframe)
-- [Entity Relationship Diagram](#erd)
-- [App Name](#app-name)
-- [Tools and Methodologies](#tools--and-methodologies)
+- [Flowchart](#flowchart)
+- [Entity Relationship Diagram](#entity-relationship-diagram)
+- [Tools and Methodologies](#tools-and-methodologies)
 - [Usage](#usage)
+- [Future Improvements](#future-improvements)
 
 
-### La Luna Sangre
-La Luna Sangre means is a spanish term means "The Blood Moon". God has often used "the heavens" for sending signs to mankind. In Genesis, God says there should be lights in heaven and says of those lights: "Let them be for signs."
+### Team
 
-| Coder | Portfolio |
-| --- | --- |
-| [ncleshyne](https://github.com/ncleshyne) | ncleshyne.github.io |
-| [silveredbullet](https://github.com/silveredbullet) | silveredbullet.github.io |
-| [grailwilly](https://github.com/grailwilly) | silveredbullet.github.io |
+| Contributor | Github | Portfolio |
+| --- | --- | --- |
+| Nicole Shayne Elim | [ncleshyne](https://github.com/ncleshyne) | [ncleshyne.github.io](https://ncleshyne.github.io/) |
+| Dan Raymond See | [silveredbullet](https://github.com/silveredbullet) | [silveredbullet.github.io](https://silveredbullet.github.io/) |
+| Grail Joy Willy| [grailwilly](https://github.com/grailwilly) | [grailwilly.github.io](https://grailwilly.github.io/) |
 
-### Plan
+### Purpose
+ The app aims to help make it easier to request blood online and notify users who whould voluntary donate blood.
 
-- Purpose
+### Problem
 
-The app aims to help make it easier to find voluteers to donate blood to strangers who desperately need blood.
+  ["Michelle Maquiling, officer-in-charge of the PRC-Negros Oriental Chapter, said there is a dire need for blood donors    because there are patients who need blood every day, but there is a shortage of supply even if the DOH has programs to strengthen blood donation in the province."](http://www.philstar.com/region/2017/03/28/1685367/blood-donors-dearth-due-fear-needles) <br/><br/>
+  ["For a first class hospital like St. Luke’s to suffer from shortage of blood supply means public hospitals are more blood-challenged nationwide from source analysed"](http://gulfnews.com/news/asia/philippines/blood-shortage-affecting-hospitals-in-philippines-1.1657914) <br/><br/> 
+  ["Blood needed: With PH blood supply below target, patients seek help online.
+  With the Philippines' blood supply still falling short of the target, patients in need of blood turn to online networks to look for kind-hearted strangers willing to donate"](https://www.rappler.com/newsbreak/in-depth/180446-blood-donation-online-networks-philippine-red-cross)
+  <br/><br/>
 
- - Problem
-
-##Infographics
-![Alt-text](https://i.pinimg.com/564x/a0/99/f8/a099f8f5bd13562bf4be5885f0cb2ee6.jpg)
-![Alt-text](http://3.bp.blogspot.com/-v_HrYLW8l0I/TaOL4fDI2PI/AAAAAAAABU0/Taj4fR3uwJ4/s1600/how_much_blood.jpg)
-
-##Know More:
-
-![Alt-text](https://i.pinimg.com/564x/48/d5/9d/48d59dc478fad4c24dabcf5cb8a9cd59.jpg)
-![Alt-text](https://i.pinimg.com/564x/ff/2f/f6/ff2ff6591d6197eafd0ab8cc8e313d78.jpg)
-
- - Solution
-
+<p align="center">
+	<img src="md/problem.jpg">
+</p>
+    
 ### User Stories
-Trello:
-https://trello.com/b/8fiwXjdl/blood-donation-app
+
+![trello](md/trello.png)
+
 
 ### Wireframe
-![Alt-text](https://github.com/silveredbullet/blood-donation-app/imgs/iPad-1.png)
 
-### ERD
+![wireframe](md/figma.png)
 
-### App Name
+### Flowchart
+![erd](md/flowchart.png)
+
+### Entity Relationship Diagram
+![erd](md/erd.png)
 
 ### Tools and Methodologies
+I. Building the App
+
+- [Github](https://github.com/grailwilly/bloodapp)
+- [Cloud9](https://c9.io/)
+- [Trello](https://trello.com/b/8fiwXjdl/blood-donation-app)
+- [Figma](https://www.figma.com/file/VX5FDJ15HLKBLVtvVeZJ6z1w/Blood-Donation-App)
+
+II. Communication
+
+- Slack <br/>
+- Facebook Messenger <br/>
+- Meeting <br/>
 
 ### Usage
+
+Clone or Download Repo
+
+```
+https://github.com/grailwilly/bloodapp.git
+```
+<br/>
+
+install dependencies
+
+```
+$ npm install
+```
+
+<br/>
+
+run server
+
+```
+$ npm start
+```
+
+Visit http://localhost:3000/
+
+
+### Future Improvements
+
+- Add map for the list of requests
+- Registration for donors (and requesters)
